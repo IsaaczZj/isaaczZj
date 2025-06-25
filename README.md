@@ -107,15 +107,15 @@ Olá, me chamo Isaac e sou apaixonado pela tecnologia e em desenvolver soluçõe
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="150" 
+    style="padding-right: 10px; padding-bottom: 10px" 
     src="https://github-readme-stats.vercel.app/api?username=isaaczzj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaczzj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
